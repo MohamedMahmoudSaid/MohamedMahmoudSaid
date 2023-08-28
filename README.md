@@ -1,14 +1,14 @@
-[<img src="https://raw.githubusercontent.com/Mohamed/Mohameed/master/intro.gif" alt="👋 Hi there! I'm (Mohamed(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+<img src="https://github.com/MohamedMahmoudSaid/MohamedMahmoudSaid/assets/143429770/e1ab25e0-3a80-47fb-8717-4f2b95b026d1" alt="👋 Hi there! I'm Mohamed " title="👋 Hi there! I'm (Mohamed)"/>
+
 
 <!--
 ![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
 -->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Computer science student at university 
-- 💼 𝚁𝚞𝚗𝚗𝚒𝚗𝚐 [𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝙳𝚎𝚌𝚎𝚖𝚋𝚎𝚛 𝟸0𝟸𝟺
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
+- 🖥  Try to be a 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 😊
+- 💼 Content creator at [techneyat | تقنيـــات](https://www.youtube.com/@techneyat5671) <img src="https://github.com/MohamedMahmoudSaid/MohamedMahmoudSaid/assets/143429770/fbef9d9c-16ed-4b27-9f6c-03f545334cc2?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>
+- 🎓 Computer science student at Higher Institute of Computer Science and Information Systems, 6-October City
   
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
@@ -19,5 +19,5 @@
 
 
 ## 🧠 Skills
-- ![Microsoft%20office](https://img.shields.io/badge/-Microsoft%20office-F25022?style=flat&logo=Microsoft%20office)&nbsp;
-- ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=Adobe)&nbsp;
+![Microsoft%20office](https://img.shields.io/badge/-Microsoft%20office-F25022?style=flat&logo=Microsoft%20office)&nbsp;
+![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=Adobe)&nbsp;
